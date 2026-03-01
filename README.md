@@ -130,4 +130,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 Tu Nombre - [@tutwitter](https://twitter.com/tutwitter)
 
-Link del proyecto: [https://github.com/tu-usuario/conversor-monedas](https://github.com/tu-usuario/conversor-monedas)
+Link del proyecto: [https://github.com/marcos-delvalle/challenge-conversor-monedas](https://github.com/marcos-delvalle/challenge-conversor-monedas)
